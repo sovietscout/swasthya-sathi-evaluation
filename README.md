@@ -38,7 +38,7 @@ The primary objectives of this study are:
 
 
 ## Key Findings
-The following are some of the key findings from the study. For a more comprehensive analysis, including additional insights, detailed statistical tests, and visualisations, please refer to the [full report](An_Evaluation_of_the_Swasthya_Sathi_Scheme.pdf) in the repository.
+The following are some of the key findings from the study. For a more comprehensive analysis, including additional insights, detailed statistical tests, and visualisations, please refer to the [full report](SSA_Evaluation_Report.pdf) in the repository.
 
 ### Enrolment Rates
 - **High Enrolment Among Vulnerable Groups**: 
