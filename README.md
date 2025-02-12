@@ -94,8 +94,8 @@ Overall, the scheme represents a significant step toward universal healthcare in
 
 
 ## File Structure
-- `data/`: Contains all response dataset used in the analysis.
-- `code/`: Contains all scripts and files used for data analysis and visualisation.
+- `data/`: Contains the response dataset used in the analysis.
+- `code/`: Contains the scripts and files used for data analysis and visualisation.
 - `images/`: Contains visualisations and charts generated during the analysis.
 
 
