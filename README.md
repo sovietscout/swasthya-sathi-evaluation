@@ -18,17 +18,17 @@ The primary objectives of this study are:
 4. **Identify key barriers** to enrolment and usage, such as lack of awareness or perceived quality of care.
 
 
-
 ## Methodology
 ### Survey-Based Approach
 - **Participants**: 129 participants from Kolkata, Howrah, and nearby districts in West Bengal were interviewed. Eligible participants had at least one family member hospitalised within the past two years.
+- **Questionnaire Design**: The survey questionnaire was designed using CSPro (Census and Survey Processing System), ensuring a structured and efficient data collection process.
 - **Data Collection**: Data were collected using a structured questionnaire, focusing on:
   - Enrolment process
   - Hospitalisation episodes
   - Awareness of the scheme
   - Financial assistance and decision-making
 - **Statistical Analysis**: 
-  - **Enrolment Rates**: Analyzed using Kruskal-Wallis tests and logistic regression.
+  - **Enrolment Rates**: Analysed using Kruskal-Wallis tests and logistic regression.
   - **User Experience**: Evaluated using Likert scale ratings and descriptive statistics.
 
 ### Key Metrics
@@ -38,7 +38,7 @@ The primary objectives of this study are:
 
 
 ## Key Findings
-The following are some of the key findings from the study. For a more comprehensive analysis, including additional insights, detailed statistical tests, and visualizations, please refer to the [full report](An_Evaluation_of_the_Swasthya_Sathi_Scheme.pdf) in the repository.
+The following are some of the key findings from the study. For a more comprehensive analysis, including additional insights, detailed statistical tests, and visualisations, please refer to the [full report](An_Evaluation_of_the_Swasthya_Sathi_Scheme.pdf) in the repository.
 
 ### Enrolment Rates
 - **High Enrolment Among Vulnerable Groups**: 
@@ -87,20 +87,20 @@ Overall, the scheme represents a significant step toward universal healthcare in
 
 
 ## Technologies Used
+- **Questionnaire Design**: CSPro (Census and Survey Processing System)
 - **Statistical Analysis**: R, Stata
-- **Data Visualization**: ggplot2, Excel
-- **Survey Tools**: CSPro - Structured questionnaires, paper-and-pen interviews
+- **Data Visualisation**: ggplot2, Excel
+- **Survey Tools**: Structured questionnaires, paper-and-pen interviews
 
 
 ## File Structure
-    `data/`: Contains the raw data and cleaned, processed data used in the project.
-    `code/`: Jupyter notebooks containing all of the analysis steps.
-    `images/`: Output graphs and maps of the selected countries.
-    `requirements.txt: Python libraries needed to run the notebooks.
+- `data/`: Contains all response dataset used in the analysis.
+- `code/`: Contains all scripts and files used for data analysis and visualisation.
+- `images/`: Contains visualisations and charts generated during the analysis.
 
 
 ## How to Use
-This repository contains code and data for analyzing the Swasthya Sathi Scheme. Follow these steps to use the resources:
+This repository contains code and data for analysing the Swasthya Sathi Scheme. Follow these steps to use the resources:
 
 1. **Clone the Repository**:
    ```bash
